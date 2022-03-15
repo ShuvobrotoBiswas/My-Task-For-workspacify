@@ -1,5 +1,5 @@
 <template>
-   <div class="q-pa-md">
+   <div class="q-pa-md" >
     <div class="row">
       <div  class="col">
        <q-btn dense rounded icon="event_available">
